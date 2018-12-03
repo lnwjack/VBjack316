@@ -1,0 +1,10 @@
+D:\kopong\kaikaVB2N3\kaikaVB2N3\bin\Debug\kaikaVB2N3.exe
+D:\kopong\kaikaVB2N3\kaikaVB2N3\bin\Debug\kaikaVB2N3.pdb
+D:\kopong\kaikaVB2N3\kaikaVB2N3\bin\Debug\kaikaVB2N3.xml
+D:\kopong\kaikaVB2N3\kaikaVB2N3\obj\x86\Debug\kaikaVB2N3.frmfirst.resources
+D:\kopong\kaikaVB2N3\kaikaVB2N3\obj\x86\Debug\kaikaVB2N3.Resources.resources
+D:\kopong\kaikaVB2N3\kaikaVB2N3\obj\x86\Debug\kaikaVB2N3.vbproj.GenerateResource.Cache
+D:\kopong\kaikaVB2N3\kaikaVB2N3\obj\x86\Debug\kaikaVB2N3.exe
+D:\kopong\kaikaVB2N3\kaikaVB2N3\obj\x86\Debug\kaikaVB2N3.xml
+D:\kopong\kaikaVB2N3\kaikaVB2N3\obj\x86\Debug\kaikaVB2N3.pdb
+D:\kopong\kaikaVB2N3\kaikaVB2N3\obj\x86\Debug\kaikaVB2N3.Form2.resources
